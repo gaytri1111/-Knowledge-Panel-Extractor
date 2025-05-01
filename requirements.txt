@@ -1,0 +1,6 @@
+selenium>=4.1.0
+beautifulsoup4>=4.9.3
+requests>=2.26.0
+rich>=10.16.2
+pyfiglet>=0.8.post1
+webdriver_manager>=3.5.2
